@@ -1,9 +1,9 @@
-{
+  {
     "compilerOptions": {
-        "outDir": "./dist", // Onde será compilado
-        "module": "commonjs", //Require do Typescript - Para leitura do Node e Browser 
-        "target": "ES2019", //Versão que node gerará o Javascript
+        "outDir": "./dist", 
+        "module": "commonjs", 
+        "target": "ES2021", 
         "esModuleInterop": true,
-        "allowJs": true,
+        "allowJs": true
     }   
-}
+  }
